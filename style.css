@@ -9,8 +9,9 @@
     list-style: none;
     display: flex;
     align-items: center;
+    /* aling items work on hights make center */
     justify-content: space-around;
-    
+    /* justify-content work on row like make center; */
 }
 .logo-photo{
     width: 147px;
@@ -20,5 +21,27 @@
     display: flex;
 }
 .list{
-    margin: 12px;
+    margin: 10px;
+    font-size: 17px;
+    padding-right: 7px;
+    cursor: pointer;
     }
+.list:hover{
+    color: rgb(81, 81, 180);
+}
+.banner-container{
+    display: flex;
+    align-items: center;
+    height: 100vh; /*(vh means vertical hight) */
+    justify-content: space-around;
+    background-image: url("./images/background.png"),
+    linear-gradient(45deg,rgb(8, 8, 8),rgb(53, 53, 53));
+    color: white;
+}
+.banner-img{
+    width: 300px;
+}
+.title {
+    font-size: 38px;
+    font-weight: bold;
+}
