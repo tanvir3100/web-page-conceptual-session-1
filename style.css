@@ -45,3 +45,16 @@
     font-size: 38px;
     font-weight: bold;
 }
+.title-small{
+    font-size: 19px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+.btn{
+    padding: 9px 9px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 9px;
+    font-size: 15px;
+}
