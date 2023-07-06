@@ -58,3 +58,23 @@
     border-radius: 9px;
     font-size: 15px;
 }
+.about-container{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    height: 70vh;
+}
+.section2-photo{
+    width: 300px;
+    padding-left: 176px;
+
+}
+.about-second{
+    padding-right: 97px;
+    padding-bottom: 164px;
+}
+.ab-h1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+}
