@@ -78,3 +78,86 @@
     font-size: 50px;
     margin-top: 20px;
 }
+.box-sec{
+    background-color:rgb(53, 53, 53);
+
+}
+.service-container{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 175px;
+    padding-right: 175px;
+    height: 70vh;
+    
+}
+.box{
+    width: 200px;
+    height: 280px;
+    border: 2px solid gray;
+    border-radius: 12px;
+    box-shadow: 4px 4px 15px gray;
+    text-align: center;
+    padding-top: 10px;
+    background-color:rgb(68, 66, 66);
+    color: white;
+}
+.box-p{
+    padding: 12px 10px
+}
+.icon{
+    width: 70px;
+}
+.box-heading{
+    text-align: center;
+    font-size: 50px;
+    padding: 20px;
+    color: white;
+
+}
+.box-btn2{
+    background-color: rgb(87, 84, 84);
+}
+
+.logo-footer-image{
+    width: 150px;
+    padding: 10px;
+}
+.p-lorem{
+    padding: 10px;
+}
+.footerBB{
+    width: 200px;
+    height: 200px;
+}
+.footerAA{
+    width: 250px;
+    height: 200px;
+}
+.footer-last{
+    background-color: rgb(31, 30, 30);
+    color: white;
+    display: flex;
+    height: 50vh;
+    align-items: center;
+    justify-content:space-around;
+}
+.fot-h4{
+    text-align: center;
+    font-size: 22px;
+}
+.fot-boss{
+    list-style: none;
+    padding-left: 25px;
+    padding-top:10px;
+    
+}
+.fot-boss li{
+    list-style: none;
+}
+.copyright{
+    height: 10vh;
+    background-color: rgb(31, 30, 30);
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+}
