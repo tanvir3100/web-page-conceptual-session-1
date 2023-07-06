@@ -1,0 +1,24 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.menu-container{
+    background-color: rgb(51, 48, 48);
+    padding: 17px;
+    color:white;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.logo-photo{
+    width: 147px;
+   
+}
+.menus{
+    display: flex;
+}
+.list{
+    margin: 12px;
+    }
