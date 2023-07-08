@@ -133,6 +133,9 @@
     width: 250px;
     height: 200px;
 }
+.footer{
+    width: 75%;
+}
 .footer-last{
     background-color: rgb(31, 30, 30);
     color: white;
@@ -155,9 +158,13 @@
     list-style: none;
 }
 .copyright{
-    height: 10vh;
+    height: 8vh;
     background-color: rgb(31, 30, 30);
     color: white;
     text-align: center;
-    padding-top: 5px;
+    
 }
+.fot-hr{
+    width:50%;
+    margin:0 auto;
+    }
